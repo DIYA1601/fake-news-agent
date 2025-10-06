@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+transformers>=4.30
+sentence-transformers
+faiss-cpu
+wikipedia
+requests
+python-multipart
+pydantic
+torch
+langchain
+datasets
+accelerate
+sentencepiece
